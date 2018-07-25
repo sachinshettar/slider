@@ -6,4 +6,5 @@ public class newclass {
     String d="Hello this is third";
     int i=1;
     int l=2;
+    int k=3;
 }
