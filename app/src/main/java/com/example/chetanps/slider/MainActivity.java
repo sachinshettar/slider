@@ -72,6 +72,7 @@ public class MainActivity extends AppCompatActivity implements BaseSliderView.On
     public void onPageSelected(int position) {
 
         Log.d("Slider Demo", "Page Changed: " + position);
+        String s="second";
     }
 
     @Override
